@@ -1,9 +1,6 @@
 Project Description For Netflix
 Introduction
 Netflix is the biggest video streaming platform in the world, offering movies, seasons, biographies, reality shows, and more. Their video repository is growing significantly. So the engineering team at Netflix keeps trying to find better ways to display content to their consumers.
-
-The scenario and the problems discussed in this chapter also relate to any content displaying functionality and how we can improve it.
-
 Statement
 Let’s pretend you’re a developer on the Netflix engineering team. You are working on improving the user experience in finding content to watch. This involves the improvement of the search as well as recommendation functionality.
 
